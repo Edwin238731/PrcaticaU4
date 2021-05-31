@@ -1,0 +1,8 @@
+Producto Cantidada Precio
+1hola mmundo[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+2bacab[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+3David[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+4rayar[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+5Gallina[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+6anitalavalatina[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
+7Siete[Ljava.lang.String;@182decdb[Ljava.lang.String;@26f0a63f
